@@ -1,6 +1,5 @@
 # JARVIS-BOT
 
-Read the tutorial series - https://iread.ga/series/10/virtual-personal-assistant-using-python
 
 freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
 
